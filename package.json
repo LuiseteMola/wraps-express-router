@@ -1,6 +1,6 @@
 {
   "name": "wraps-express-router",
-  "version": "0.0.2",
+  "version": "0.0.0",
   "description": "Express routing quick start helpers",
   "main": "index.js",
   "scripts": {
